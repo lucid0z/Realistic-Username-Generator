@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
   { name="Lucid", email="frantico1@proton.me" },
 ]
-description = "A package for generating usernames"
+description = "A simple package for generating usernames"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -19,4 +19,4 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/lucid0z/realistic-username-generator"
-Issues = "https://github.com/pypa/realistic-username-generator/issues"
+Issues = "https://github.com/lucid0z/realistic-username-generator/issues"
