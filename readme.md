@@ -7,7 +7,7 @@ A simple python package to create usernames. You can generate a basic or advance
 To install, type the following command in the terminal:
 
 ```bash
-pip install realistic-username-generator
+pip3 install realistic-username-generator
 ```
 
 ## Features
