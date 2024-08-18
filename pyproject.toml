@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/lucid0z/realistic_username_generator"
-Issues = "https://github.com/pypa/realistic_username_generator/issues"
+Homepage = "https://github.com/lucid0z/realistic-username-generator"
+Issues = "https://github.com/pypa/realistic-username-generator/issues"
