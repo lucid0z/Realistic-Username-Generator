@@ -16,9 +16,9 @@ advanced_username = [
     "Vertex", "Rogue", "Zenith", "Blaze", "Echo", "Maverick", "Specter", "Zeal",
     "Phantom", "Vortex", "Onyx", "Nexxus", "Drake", "Havoc", "Striker", "Viper",
     "Rynex", "Rex", "Shadow", "Inferno", "Tempest", "Xero", "Kryptic", "Volt",
-    "Fury", "Jinx", "Sable", "Quasar", "Nova", "Vanguard", "Alpha", "Titan",
-    "Nyx", "Bolt", "Enigma", "Zen", "Karma", "Gravix", "Surge", "Artemis",
-    "Void", "Flask",
+    "Fury", "Jinx", "Sable", "Quasar", "Vanguard", "Alpha", "Titan", "Nyx",
+    "Bolt", "Enigma", "Zen", "Karma", "Gravix", "Surge", "Artemis","Void",
+    "Flask",
 ]
 advanced_endname = [
     "WasTaken", "XX", "X", "GmD", "Z", "01", "IsHere",
